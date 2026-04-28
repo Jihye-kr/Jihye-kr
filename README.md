@@ -62,6 +62,7 @@ TypeScript · React · Next.js 중심으로 풀스택 역량을 쌓고 있습니
 </details>
 
 ---
+> 🇺🇸 **English version available** — click below to expand
 
 <details>
 <summary>English</summary>
