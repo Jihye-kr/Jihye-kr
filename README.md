@@ -1,5 +1,5 @@
 <details open>
-<summary>🇰🇷 한국어</summary>
+<summary>한국어</summary>
 
 ## 👋 안녕하세요, 프론트엔드 개발자 김지혜입니다
 
@@ -64,7 +64,7 @@ TypeScript · React · Next.js 중심으로 풀스택 역량을 쌓고 있습니
 ---
 
 <details>
-<summary>🇺🇸 English</summary>
+<summary>English</summary>
 
 ## 👋 Hi, I'm Jihye Kim — Frontend Developer
 
