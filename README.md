@@ -1,4 +1,4 @@
-<details open>
+<details>
 <summary>한국어</summary>
 
 ## 👋 안녕하세요, 프론트엔드 개발자 김지혜입니다
